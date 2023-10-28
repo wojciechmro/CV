@@ -1,8 +1,8 @@
-# Wojciech Mroczyński
-
-<div style="float: right; margin: 10px;">
-  <img src="https://drive.google.com/uc?export=view&id=1jjN82h2yFNhKpDgJAPyvBrGZDxruRAQl" width="80" alt="Wojciech Mroczyński"/>
+<div>
+  <img src="https://drive.google.com/uc?export=view&id=1jjN82h2yFNhKpDgJAPyvBrGZDxruRAQl" width="100" alt="Wojciech Mroczyński"/>
 </div>
+
+# Wojciech Mroczyński
 
 Warsaw, Poland  
 
