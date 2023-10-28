@@ -11,7 +11,7 @@ Phone: +48 519 055 450
 ---
 
 ## Summary
-Data Science and NLP enthusiast and entrepreneur with 3 years of experience as a Python engineer, startup founder, researcher, and consultant. Skilled in business development, with a proven track record as a *Fiverr's Choice* awarded seller. A creative problem-solver with a love for bringing new ideas to life. Excited to meet you!
+Data Science enthusiast and entrepreneur with 3 years of experience as a Python engineer, startup founder, researcher, and consultant. Skilled in business development, with a proven track record as a *Fiverr's Choice* awarded seller. A creative problem-solver with a love for bringing new ideas to life. Excited to meet you!
 
 ---
 
