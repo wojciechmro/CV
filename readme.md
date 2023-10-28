@@ -27,7 +27,7 @@ Data Science and NLP enthusiast and entrepreneur with 3 years of experience as a
 
 ### Bayoo (previously [Explainer](https://play.google.com/store/apps/details?id=com.bayoo.explainer))
 **Technical Co-Founder**  
-*September 2022 - September 2022 (1 year 1 month)*  
+*September 2022 - September 2023 (1 year 1 month)*  
 - Developed mobile app for parents and their kids to create fairy tales together with ease and enjoyment. 
 - Used low-code tools (`Flutterflow`, `Glide`, `Adalo`, `Zapier`, `Firebase`) and Python code (`Google Cloud Functions`) to create a fully functional app. 
 - Generative AI (`gpt`, `dalle`) helped us generate stories and corresponding images.
@@ -45,7 +45,7 @@ Data Science and NLP enthusiast and entrepreneur with 3 years of experience as a
 - Developed end-to-end pipeline for automatic transcription of podcasts and radio broadcasts (`Python`, `AWS Lambda`, `BigQuery`, `Deepgram`, `Whisper`).
 - Led research into LangChain, Vector Databases, LLMs, and Text Similarity Metrics.
 - Debugged and revised ETL processes for enhanced Business Intelligence analytics.
-- ([Reference from CTO](https://drive.google.com/file/d/1UG1Krj27Q82urckHdidcc-rk9lj9Z8f_/view?usp=sharing))
+- [Reference from CTO](https://drive.google.com/file/d/1UG1Krj27Q82urckHdidcc-rk9lj9Z8f_/view?usp=sharing)
 
 ### Fiverr
 **Seller**  
