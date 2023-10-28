@@ -4,10 +4,8 @@
 
 # Wojciech Mroczyński
 
-Warsaw, Poland  
-
-[Email](mailto:mroczynskiwojciech@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wojciechmroczynski/) | [GitHub](https://github.com/wojciechmro)
-
+Warsaw, Poland <br>
+[Email](mailto:mroczynskiwojciech@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wojciechmroczynski/) | [GitHub](https://github.com/wojciechmro) <br>
 Phone: +48 519 055 450
 
 ---
