@@ -55,7 +55,7 @@ Data Science enthusiast and entrepreneur with 3 years of experience as a Python 
 **Co-Founder**  
 April 2021 - October 2021 (7 months)  
 - Developed and [implemented](https://www.linkedin.com/posts/wojciechmroczynski_zgierz-activity-6867522153592471552-pgGb?utm_source=share&utm_medium=member_desktop) drone-based air quality solution in Zgierz, Poland.
-- 1st award - "Leothon EcoTechnology For Cities powered by Microsoft & GovTech" competition.
+- 1st award during "Leothon EcoTechnology For Cities powered by Microsoft & GovTech" competition.
 
 ---
 
