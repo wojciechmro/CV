@@ -36,6 +36,7 @@ Data Science enthusiast and entrepreneur with 3 years of experience as a Python 
 - With [Leon Ciechanowski Ph.D.](https://www.linkedin.com/in/ciechanowski/) and [Dariusz Jemielniak Ph.D.](https://www.linkedin.com/in/jemielniak/) we explored how prompt engineering can influence response length consistency in `gpt-3.5-turbo`.
 - Used variety of statistical tools for analysis like `Coefficient of Variation` as well as `Shapiro-Wilk`, `Levene`, `Kruskal-Wallis` and `Wilcoxon Signed-Rank` tests.
 - Found that quantitative length-defining keywords (those that specify a number, such as a word or character count) in prompts tends to generate more consistent but often lengthier outputs.
+- [GitHub](https://github.com/wojciechmro/gpt_length_analysis)
 
 ### newonce.media
 **Junior AI Engineer**  
