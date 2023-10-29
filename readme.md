@@ -28,7 +28,7 @@ Data Science enthusiast and entrepreneur with 3 years of experience as a Python 
 *September 2022 - September 2023 (1 year 1 month)*  
 - Developed mobile app for parents and their kids to create fairy tales together with ease and enjoyment. 
 - Used low-code tools (`Flutterflow`, `Glide`, `Adalo`, `Zapier`, `Firebase`) and Python code (`Google Cloud Functions`) to create a fully functional app. 
-- Generative AI (`gpt`, `dalle`) helped us generate stories and corresponding images.
+- Chain of prompts to generative AI (`gpt`, `dalle`) helped us generate stories and corresponding images.
 
 ### Kozminski University
 **Lead Author in Prompt Engineering [Research Paper](https://docs.google.com/document/d/1DuZw_BG603ZJn9x5dUolzzsAFFXiT4Fe0ZE8B48V3pM/edit?usp=sharing)**  
