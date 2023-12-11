@@ -19,7 +19,7 @@ Data Science enthusiast and entrepreneur with 3 years of experience as a Python 
 
 ### 4BSystems
 **LLM-focused API Engineer**  
-*July 2023 - Present (5 months)*  
+*July 2023 - December 2023 (6 months)*  
 - Leveraging Vector Database (`chromadb`) and LLM (`gpt`/`llama2`) to develop a Retrieval Augmented Generation (`LangChain`, `LlamaIndex`) based chatbot with proprietary data and custom logic.
 - Staying up to date with the latest developments in the field of LLMs and NLP ([AIDevs2](https://www.aidevs.pl/) and [gen-ai](https://gen-ai.pl/) courses + [Alpha Signal](https://alphasignal.ai/) newsletter).
 
